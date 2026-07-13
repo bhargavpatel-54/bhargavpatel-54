@@ -51,28 +51,17 @@ and creating projects that solve real-world problems.
 </p>
 ---
 
-## 📊 GitHub Stats
-
-![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Featured Projects
 
-🔹 AI Manufacturing Tracker  
-🔹 Smart Billing System  
-🔹 Inventory Management System  
-🔹 AI-powered Automation Projects
+🔹 AI Manufacturing Tracker (In progress)  
+🔹 <a src="https://github.com/bhargavpatel-54/invoicedesk"> Billing System For Manufacturing Business </a>
+🔹 Hostel Management System
 
 ---
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_LINK)  
-[Portfolio](YOUR_PORTFOLIO_LINK)
+<a src="https://www.linkedin.com/in/bhargav-patel-825226371?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
 
----
 
 ⭐ "Learning today, building the future with AI."
