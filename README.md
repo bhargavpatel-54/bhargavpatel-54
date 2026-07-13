@@ -32,22 +32,22 @@ and creating projects that solve real-world problems.
 
 ### ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel" />
 </p>
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 ---
 
