@@ -36,9 +36,11 @@ and creating projects that solve real-world problems.
 </p>
 
 ### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<abber title="MySQL">
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+</abber>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p align="left">
