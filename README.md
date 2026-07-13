@@ -38,7 +38,7 @@ and creating projects that solve real-world problems.
 ### 🗄️ Database
 <p align="left">
   <abbr title="MySQL Database">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="50"/>
   </abbr>
 </p>
 
