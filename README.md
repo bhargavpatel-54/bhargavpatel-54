@@ -27,7 +27,7 @@ and creating projects that solve real-world problems.
 
 ### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
