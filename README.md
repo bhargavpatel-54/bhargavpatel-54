@@ -99,12 +99,6 @@ A web application for managing hostel operations including student registration,
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
-<p>
-  <a href="bhargavpatel0580@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
----
 
 <div align="center">
 
