@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Bhargav Patel
 
-### 🎓 Information Technology Student | 🤖 AI Enthusiast | 💻 Full Stack Developer
+### 🎓 Information Technology Student | 🤖 AI Enthusiast
 
 Passionate about building intelligent software, exploring AI technologies, and developing practical solutions for real-world problems.
 
@@ -18,7 +18,6 @@ Passionate about building intelligent software, exploring AI technologies, and d
 - 💻 Building **Full Stack Web Applications** with React, Node.js, Laravel & MySQL
 - 📚 Continuously improving my problem-solving and software engineering skills
 - 🌱 Exploring AI automation, intelligent systems, and modern web technologies
-- 🎯 Goal: Become an **AI Software Engineer**
 
 ---
 
@@ -46,12 +45,12 @@ Passionate about building intelligent software, exploring AI technologies, and d
 
 ### AI & Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
@@ -96,12 +95,12 @@ A web application for managing hostel operations including student registration,
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/bhargavpatel-54">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 <p>
-  <a href="https://www.linkedin.com/in/bhargav-patel-825226371">
+  <a href="bhargavpatel0580@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
