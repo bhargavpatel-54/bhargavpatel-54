@@ -6,11 +6,7 @@
 
 Passionate about building intelligent software, exploring AI technologies, and developing practical solutions for real-world problems.
 
-<p>
-  <a href="https://www.linkedin.com/in/bhargav-patel-825226371">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+
 
 </div>
 
@@ -104,7 +100,11 @@ A web application for managing hostel operations including student registration,
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
-
+<p>
+  <a href="https://www.linkedin.com/in/bhargav-patel-825226371">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 ---
 
 <div align="center">
