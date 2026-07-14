@@ -1,69 +1,114 @@
+<div align="center">
+
 # Hi 👋, I'm Bhargav Patel
 
-🎓 Information Technology Student  
-🤖 AI Learner | 💻 Full Stack Developer in Progress
+### 🎓 Information Technology Student | 🤖 AI Enthusiast | 💻 Full Stack Developer
 
-I am passionate about building software solutions, exploring Artificial Intelligence,
-and creating projects that solve real-world problems.
+Passionate about building intelligent software, exploring AI technologies, and developing practical solutions for real-world problems.
+
+<p>
+  <a href="https://www.linkedin.com/in/bhargav-patel-825226371">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Artificial Intelligence & Machine Learning**
-- 💻 Developing projects using **React, Node.js, Laravel & MySQL**
-- 🤖 Exploring **Generative AI, Automation & AI Tools**
-- 🧠 Interested in Software Development and AI Engineering
-- 🚀 Always learning new technologies
+- 🤖 Learning **Artificial Intelligence**, **Machine Learning**, and **Generative AI**
+- 💻 Building **Full Stack Web Applications** with React, Node.js, Laravel & MySQL
+- 📚 Continuously improving my problem-solving and software engineering skills
+- 🌱 Exploring AI automation, intelligent systems, and modern web technologies
+- 🎯 Goal: Become an **AI Software Engineer**
 
 ---
 
-## 🧑‍💻 Languages & Technologies
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,php,c,cpp" />
 </p>
 
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel" />
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel" />
 </p>
 
-### 🗄️ Database
-<p align="left">
-  <abbr title="MySQL Database">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </abbr>
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🤖 Artificial Intelligence & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+### AI & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
+
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-🔹 AI Manufacturing Tracker (In progress)  
-🔹 <a src="https://github.com/bhargavpatel-54/invoicedesk"> Billing System For Manufacturing Business </a>
-🔹 Hostel Management System
+### 🤖 AI Manufacturing Tracker *(In Progress)*
+An AI-powered manufacturing management platform that monitors production, inventory, machine performance, and analytics to improve operational efficiency.
+
+**Tech Stack:** React • Node.js • AI • MySQL
+
+---
+
+### 🏭 Manufacturing Billing System
+A complete billing and inventory solution for manufacturing businesses featuring invoice generation, expense tracking, GST support, customer management, and reporting.
+
+**Tech Stack:** Laravel • MySQL • Bootstrap
+
+---
+
+### 🏠 Hostel Management System
+A web application for managing hostel operations including student registration, room allocation, fee management, and administrative records.
+
+**Tech Stack:** PHP • MySQL • HTML • CSS • JavaScript
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ⚡ Generative AI
+- 🔥 AI Agents
+- ☁️ Cloud Computing
 
 ---
 
 ## 📫 Connect With Me
 
-<a src="https://www.linkedin.com/in/bhargav-patel-825226371?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
+<p>
+<a href="https://www.linkedin.com/in/bhargav-patel-825226371">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
+---
 
-⭐ "Learning today, building the future with AI."
+<div align="center">
+
+> **"Learning today. Building intelligent solutions for tomorrow."** 🚀
+
+</div>
